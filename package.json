@@ -1,11 +1,17 @@
 {
+<<<<<<< HEAD
   "name": "cfs-ii-2022",
   "version": "1.0.0",
   "description": "",
+=======
+  "name": "ejercicioregistro",
+  "version": "1.0.0",
+>>>>>>> f2a9ecdbefc7136c7a925107fc7f202935803f85
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+<<<<<<< HEAD
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MayraRetamar/CFS-II-2022.git"
@@ -20,4 +26,13 @@
     "@types/node": "^18.8.3",
     "readline-sync": "^1.4.10"
   }
+=======
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "CFS-II-2022/"
+  },
+  "description": ""
+>>>>>>> f2a9ecdbefc7136c7a925107fc7f202935803f85
 }
